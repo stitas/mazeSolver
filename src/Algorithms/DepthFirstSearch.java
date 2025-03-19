@@ -1,4 +1,4 @@
-package mazeSolver.Algorithms;
+package Algorithms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
